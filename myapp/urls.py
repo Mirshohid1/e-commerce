@@ -5,3 +5,5 @@ from . import views
 urlpatterns = [
     path('posts/', views.PostListView.as_view())
 ]
+
+# edit commit
