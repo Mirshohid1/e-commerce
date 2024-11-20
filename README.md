@@ -1,5 +1,5 @@
 # e-commerce
-<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="100">
+<img src="https://avatars.mds.yandex.net/i?id=b4d9b1733e19cf30de2249dfbb64741020215950-12890380-images-thumbs&n=13" width="100">
 
 ### Project description
 The first lesson on DRF
