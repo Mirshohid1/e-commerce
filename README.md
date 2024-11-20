@@ -1,5 +1,5 @@
 # e-commerce
-<img src="https://avatars.mds.yandex.net/i?id=b4d9b1733e19cf30de2249dfbb64741020215950-12890380-images-thumbs&n=13" width="100">
+<img src="https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkh7rm3q2amm9arskcjtm.png" width="200">
 
 ### Project description
 The first lesson on DRF
@@ -21,4 +21,4 @@ python manage.py runserver
 
 ### Contact Information
 - Mirshoxid Mirshoxidov
-    - **email:** mirshohid1214@gmail.com
+    - **email:** mirshoxidmirshoxidov@gmail.com
