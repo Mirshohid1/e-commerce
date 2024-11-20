@@ -1,5 +1,5 @@
 # e-commerce
-<img src="https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkh7rm3q2amm9arskcjtm.png" width="200">
+<img src="https://avatars.mds.yandex.net/i?id=fb01ee68b66f297d818d4d02252d179e33a78d9f-11547768-images-thumbs&n=13" width="200">
 
 ### Project description
 The first lesson on DRF
